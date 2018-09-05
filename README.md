@@ -2,4 +2,4 @@
 
 _A screenshot of the piano inside Decentraland._
 
-![ScreenShot](https://github.com/takJohn/dcl-piano/blob/master/88-keys-piano.jpg)
+![ScreenShot](https://github.com/takJohn/decentraland-piano/blob/master/88-keys-piano.jpg)
