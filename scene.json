@@ -1,0 +1,27 @@
+{
+  "display": {
+    "title": "piano"
+  },
+  "owner": "0x909F12Df377343D0d935500da28530F9876F9F0A",
+  "contact": {
+    "name": "Tak-John Cheung",
+    "email": ""
+  },
+  "scene": {
+    "parcels": [
+      "-22,-61"
+    ],
+    "base": "-22,-61"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://rendezvous.decentraland.org"
+  },
+  "policy": {
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": "0,0,0"
+  },
+  "main": "scene.js"
+}
