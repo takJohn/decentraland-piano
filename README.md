@@ -8,7 +8,7 @@ Here's a quick [video](https://vimeo.com/288196835) showing the piano in action.
 
 ## Previewing the scene
 
-Download and install the Decentraland CLI - please read the [installation guide](https://docs.decentraland.org/getting-started/installation-guide/) for further details.
+Download and install the Decentraland CLI - please read this [installation guide](https://docs.decentraland.org/getting-started/installation-guide/) for further details.
 
 ```
 npm i -g decentraland
