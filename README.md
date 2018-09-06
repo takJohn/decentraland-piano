@@ -36,7 +36,7 @@ This will automatically open up your browser and direct it to <http://localhost:
 
 ## Interacting with the scene
 
-Use the mouse to look around and <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> keys on your keyboard to move. Point and click on piano keys to play.
+Use the mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move. Point and click on piano keys to play.
 
 ## Acknowledgements
 
