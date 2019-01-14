@@ -4,7 +4,7 @@ _A screenshot of the piano inside Decentraland._
 
 ![screenshot](https://github.com/takJohn/decentraland-piano/blob/master/88-keys-piano.jpg)
 
-Please feel free to explore the scene [here](https://decentraland-piano-amwtwanbpb.now.sh/?position=-22%2C-61), which will take you to a version that has already been deployed. Alterantively you can run the scene locally by following the instructions below.
+Please feel free to explore the scene [here](https://decentraland-piano-amwtwanbpb.now.sh/?position=-22%2C-61), which will take you to a version that has already been deployed but bear in mind that this might take a while to load so if you don't want to wait then you can view a [video](https://vimeo.com/288196835) of me playing the piano instead. Alterantively you can run the scene locally by following the instructions below.
 
 ## Previewing the scene
 
